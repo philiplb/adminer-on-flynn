@@ -1,0 +1,15 @@
+{
+    "name": "philiplb/adminer-on-flynn",
+    "description": "This is a small project to deploy Adminer to a Flynn cluster.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philip Lehmann-Boehm",
+            "email": "philip@philiplb.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    }
+}
